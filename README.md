@@ -1,5 +1,7 @@
 # THIS TEMPLATE CREATED FOR [LEDBIM](https://ledbim.com/) :+1:
 
+![Logo](https://ledbim.com/assets/images/logos/logo.png)
+
 ## DEPENDENCIES
 
 For this project needs [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/) installed.
