@@ -12,7 +12,7 @@ For this project needs [Node.js](https://nodejs.org/en/) and [Git](https://git-s
 
 ## USAGE
 
-<b>Go to target directory and open cmd,</b>
+<b>Go to target directory and open cmd</b>
 
 ```
 $ "npx ledbim-react-boilerplate [projectName]"
