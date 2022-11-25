@@ -1,7 +1,10 @@
 {
   "name": "ledbim-react-boilerplate",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.1.1",
+  "private": false,
+  "bin": {
+    "create-boilerplate": "./bin/create-app.js"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -13,6 +16,13 @@
     "sass": "^1.56.1",
     "web-vitals": "^2.1.4"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MetehanBass/ledbim-react-boilerplate"
+  },
+  "keywords": [],
+  "author": "Metehan Bass",
+  "license": "MIT",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
