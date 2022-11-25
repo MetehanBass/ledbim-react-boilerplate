@@ -2,20 +2,20 @@
 
 ## DEPENDENCIES
 
-This project needs [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/) installed,
+For this project needs [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/) installed.
 
 ## INSTALLED PACKAGES
 
--Tailwind
--SASS
--React-Router-DOM
+-Tailwind \
+-SASS \
+-React-Router-DOM \
 
 ## USAGE
 
-Go to target directory and open cmd,
--"npx ledbim-react-boilerplate [projectName]"
--cd [projectName]
--npm start
+Go to target directory and open cmd, \
+-"npx ledbim-react-boilerplate [projectName]" \
+-cd [projectName] \
+-npm start \
 
 ### `npm start`
 
