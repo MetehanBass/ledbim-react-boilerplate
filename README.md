@@ -1,4 +1,4 @@
-# THIS TEMPLATE CREATED FOR [LEDBIM](https://ledbim.com/)
+# THIS TEMPLATE CREATED FOR [LEDBIM](https://ledbim.com/) :+1:
 
 ## DEPENDENCIES
 
@@ -6,21 +6,21 @@ For this project needs [Node.js](https://nodejs.org/en/) and [Git](https://git-s
 
 ## INSTALLED PACKAGES
 
-- Tailwind \
-- SASS \
+- Tailwind
+- SASS
 - React-Router-DOM
 
 ## USAGE
 
-Go to target directory and open cmd, \
+Go to target directory and open cmd,
 
 ```
-$ "npx ledbim-react-boilerplate [projectName]" \
-$ cd [projectName] \
+$ "npx ledbim-react-boilerplate [projectName]"
+$ cd [projectName]
 $ npm start
 ```
 
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser. /
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
