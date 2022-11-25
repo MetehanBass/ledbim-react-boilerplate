@@ -36,6 +36,9 @@ This project needs <a href="https://nodejs.org/en/">Node.js</a> and <a href="htt
 <ul>
 <li>Tailwind</li>
 <li>SASS</li>
+<li>Styled-icons</li>
+<li>Styled-components</li>
+<li>React-Error-Boundary</li>
 <li>React-Router-DOM</li>
 </ul>
 
