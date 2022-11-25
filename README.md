@@ -54,6 +54,6 @@ $ npm start
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@Yasin ilkalp Arabacı](https://github.com/MetehanBass) - Idea
+- [@Yasin ilkalp Arabacı](https://github.com/yasinilkalp) - Idea
 - [@Metehan Bas](https://github.com/MetehanBass) - Initial work
 
