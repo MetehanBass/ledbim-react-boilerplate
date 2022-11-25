@@ -1,6 +1,6 @@
 {
   "name": "ledbim-react-boilerplate",
-  "version": "0.1.1",
+  "version": "0.1.11",
   "private": false,
   "bin": {
     "create-boilerplate": "./bin/create-app.js"

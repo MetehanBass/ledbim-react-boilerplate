@@ -25,10 +25,9 @@
 - [Usage](#usage)
 - [Authors](#authors)
 
-
 ## 🧐 Dependencies <a name = "dependencies"></a>
 
-This project needs <a href="https://nodejs.org/en/">Node.js</a> and  <a href="https://git-scm.com/">Git</a> installed.
+This project needs <a href="https://nodejs.org/en/">Node.js</a> and <a href="https://git-scm.com/">Git</a> installed.
 
 ## 🔧 Installed Packages <a name = "installed_packages"></a>
 
@@ -40,7 +39,6 @@ This project needs <a href="https://nodejs.org/en/">Node.js</a> and  <a href="ht
 <li>React-Router-DOM</li>
 </ul>
 
-
 ## 🎈 Usage <a name="usage"></a>
 
 <b>Go to target directory and open cmd</b>
@@ -51,9 +49,8 @@ $ cd [projectName]
 $ npm start
 ```
 
-
 ## ✍️ Authors <a name = "authors"></a>
 
 - [@Yasin ilkalp Arabacı](https://github.com/yasinilkalp) - Idea
+- [@Onur Ata Asar](https://github.com/onurataasar) - Idea
 - [@Metehan Bas](https://github.com/MetehanBass) - Initial work
-
