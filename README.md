@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/FxL5qM0.jpg" alt="Bot logo"></a>
+ <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 
 <h3 align="center">ledbim-react-boilerplate</h3>
@@ -8,7 +8,6 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![Platform](https://img.shields.io/badge/platform-reddit-orange.svg)](https://www.reddit.com/user/Wordbook_Bot)
 [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
@@ -17,18 +16,16 @@
 
 ---
 
-<p align="center"> 🤖 Few lines describing what your bot does.
+<p align="center"> Few lines describing your project.
     <br> 
 </p>
 
 ## 📝 Table of Contents
 
 - [About](#about)
-- [Demo / Working](#demo)
-- [How it works](#working)
-- [Usage](#usage)
 - [Getting Started](#getting_started)
-- [Deploying your own bot](#deployment)
+- [Deployment](#deployment)
+- [Usage](#usage)
 - [Built Using](#built_using)
 - [TODO](../TODO.md)
 - [Contributing](../CONTRIBUTING.md)
@@ -37,56 +34,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your bot.
-
-## 🎥 Demo / Working <a name = "demo"></a>
-
-![Working](https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif)
-
-## 💭 How it works <a name = "working"></a>
-
-The bot first extracts the word from the comment and then fetches word definitions, part of speech, example and source from the Oxford Dictionary API.
-
-If the word does not exist in the Oxford Dictionary, the Oxford API then returns a 404 response upon which the bot then tries to fetch results form the Urban Dictionary API.
-
-The bot uses the Pushshift API to fetch comments, PRAW module to reply to comments and Heroku as a server.
-
-The entire bot is written in Python 3.6
-
-## 🎈 Usage <a name = "usage"></a>
-
-To use the bot, type:
-
-```
-!dict word
-```
-
-The first part, i.e. "!dict" **is not** case sensitive.
-
-The bot will then give you the Oxford Dictionary (or Urban Dictionary; if the word does not exist in the Oxford Dictionary) definition of the word as a comment reply.
-
-### Example:
-
-> !dict what is love
-
-**Definition:**
-
-Baby, dont hurt me~
-Dont hurt me~ no more.
-
-**Example:**
-
-Dude1: Bruh, what is love?
-Dude2: Baby, dont hurt me, dont hurt me- no more!
-Dude1: dafuq?
-
-**Source:** https://www.urbandictionary.com/define.php?term=what%20is%20love
-
----
-
-<sup>Beep boop. I am a bot. If there are any issues, contact my [Master](https://www.reddit.com/message/compose/?to=PositivePlayer1&subject=/u/Wordbook_Bot)</sup>
-
-<sup>Want to make a similar reddit bot? Check out: [GitHub](https://github.com/kylelobo/Reddit-Bot)</sup>
+Write about 1-2 paragraphs describing the purpose of your project.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -118,16 +66,40 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo.
 
-## 🚀 Deploying your own bot <a name = "deployment"></a>
+## 🔧 Running the tests <a name = "tests"></a>
 
-To see an example project on how to deploy your bot, please see my own configuration:
+Explain how to run the automated tests for this system.
 
-- **Heroku**: https://github.com/kylelobo/Reddit-Bot#deploying_the_bot
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## 🎈 Usage <a name="usage"></a>
+
+Add notes about how to use the system.
+
+## 🚀 Deployment <a name = "deployment"></a>
+
+Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [PRAW](https://praw.readthedocs.io/en/latest/) - Python Reddit API Wrapper
-- [Heroku](https://www.heroku.com/) - SaaS hosting platform
+- [MongoDB](https://www.mongodb.com/) - Database
+- [Express](https://expressjs.com/) - Server Framework
+- [VueJs](https://vuejs.org/) - Web Framework
+- [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
 
